@@ -10,7 +10,6 @@ export default function Home() {
       </Head>
 
       <h1>React Query Pagination</h1>
-      
     </div>
   )
 }
